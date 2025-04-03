@@ -1,6 +1,5 @@
 # Hi there, I'm Utsav! 👋
 
-![Profile Banner](https://github.com/utsav-mistry/banner.png)
 
 ## 🚀 About Me
 
