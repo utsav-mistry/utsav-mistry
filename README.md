@@ -34,10 +34,6 @@ I'm a passionate developer working on innovative projects in **FinTech, Cybersec
 - Export stored credentials securely
 - End-to-end encryption
 
-- AI-powered fraud detection for banking transactions
-- REST API for real-time risk analysis
-- Gemini AI for fraud insights
-
 ### 📷 Steganography Project
 🔗 [GitHub Repo](https://github.com/utsav-mistry/steganography-project)
 
