@@ -33,7 +33,7 @@ A modern, encrypted password manager with support for import/export in CSV, XLS,
 ---
 
 ### 2. Shard - SaaS Deployment Platform  
-🔗 [GitHub Repo](https://github.com/NISHITSOMANI/shard)  
+🔗 [GitHub Repo](https://github.com/utsav-mistry/shard)  
 Full-stack platform for deploying web applications with AI-based code review.  
 - CI/CD for MERN, Flask, Django stacks  
 - AI-based static code analysis (Python-based microservice)  
@@ -43,7 +43,7 @@ Full-stack platform for deploying web applications with AI-based code review.
 ---
 
 ### 3. StackIt - AI-Powered Q&A Platform  
-🔗 [GitHub Repo](https://github.com/utsav-mistry/stackit)  
+🔗 [GitHub Repo](https://github.com/NISHITSOMANI/stackit)  
 A Q&A platform combining community features with AI-backed moderation.  
 - Real-time AI moderation using a Django-based ML service  
 - Tag prediction, inappropriate content filtering, answer ranking  
