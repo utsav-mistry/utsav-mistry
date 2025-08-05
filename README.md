@@ -33,7 +33,7 @@ A modern, encrypted password manager with support for import/export in CSV, XLS,
 ---
 
 ### 2. Shard - SaaS Deployment Platform  
-🔗 [GitHub Repo](https://github.com/utsav-mistry/shard)  
+🔗 [GitHub Repo](https://github.com/NISHITSOMANI/shard)  
 Full-stack platform for deploying web applications with AI-based code review.  
 - CI/CD for MERN, Flask, Django stacks  
 - AI-based static code analysis (Python-based microservice)  
