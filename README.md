@@ -23,6 +23,7 @@ Core interests:
 ## GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=utsav-mistry&hide_border=true) 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav-mistry&layout=compact&hide_border=true)
 
 ---
